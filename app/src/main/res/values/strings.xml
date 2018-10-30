@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pemilu</string>
+
+    <string-array name="android_dropdown_arrays">
+        <item>Pilih Item</item>
+        <item>Daftar Drop Down  1</item>
+        <item>Daftar Drop Down  2</item>
+        <item>Daftar Drop Down  3</item>
+        <item>Daftar Drop Down  5</item>
+        <item>Daftar Drop Down  6</item>
+        <item>Daftar Drop Down  7</item>
+        <item>Daftar Drop Down  8</item>
+    </string-array>
+</resources>
